@@ -1,0 +1,214 @@
+{
+  "links": {
+    "home": "Home",
+    "english": "English version",
+    "chinese": "Chinese version",
+    "drawers": {
+      "index": "Home",
+      "myMessages": "My messages",
+      "myCollections": "My saved",
+      "myInfo": "Personal center",
+      "myPosts": "My posts",
+      "language": "语言",
+      "about": "About",
+      "logout": "logout"
+    }
+  },
+  "common": {
+    "yes": "Yes",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close",
+    "avatar": "Avatar",
+    "username": "Username",
+    "birthday": "Birthday",
+    "none": "none",
+    "email": "Email",
+    "password":"Password",
+    "gender": "gender",
+    "phone": "Phone",
+    "sign": "Individuality signature",
+    "logout": "logout",
+    "login": "login",
+    "edit": "edit",
+    "female": "female",
+    "male": "male",
+    "unknown": "unknown",
+    "editSuccess": "Edit success！",
+    "tips": "tips",
+    "confirm": "confirm",
+    "delete": "delete",
+    "submit": "submit",
+    "read": "read",
+    "like": "like",
+    "noData": "No data",
+    "notFound": "Page not found",
+    "categories": {
+      "Help": "Help",
+      "Rent": "Rent",
+      "Transfer": "Transfer",
+      "Chinese": "Chinese",
+      "Trade":"Trade",
+      "Visa": "Visa",
+      "Enjoy":"Enjoy",
+      "Transport":"Transport",
+      "Apply":"Apply",
+      "Car": "Car",
+      "Other":"Other"
+    },
+    "loadMore": {
+      "loading": "Loading...",
+      "nodata": "No more data",
+      "error": "Error getting data, please click here to retry"
+    }
+  },
+  "about": {
+    "desc": ""
+  },
+  "category": {
+    "top": "Stick",
+    "notice":"announcements",
+    "latest": "newest",
+    "hot": "hottest",
+    "release": "recently"
+  },
+  "index": {
+    "hotSpotToday": "Hot Spot Today",
+    "category": {
+      "help": "Help",
+      "transfer": "Transfer",
+      "chinese": "Chinese",
+      "trade":"Trade",
+      "visa": "Visa",
+      "enjoy":"Enjoy",
+      "transport":"Transport",
+      "application":"Application",
+      "car": "Car",
+      "other":"Other"
+    }
+  },
+  "post": {
+    "cancelCollect": "Cancel the collection",
+    "collect": "collect",
+    "comments": "Comments",
+    "cancelSuccess": "Cancel the success！",
+    "collectSuccess": "Collection of success！",
+    "likeSuccess": "Thumb up success！",
+    "deleteSuccess": "Delete the success！",
+    "commentSuccess": "Comment on success!",
+    "replySuccess": "Reply on success!",
+    "read": "read",
+    "comment": "Comment...",
+    "deletePostTips": "Do you want to delete this post?",
+    "deleteCommentTips": "Do you want to delete this comment?",
+    "reply": "Reply"
+  },
+  "user": {
+    "posts": "posts",
+    "he": "his",
+    "she": "her",
+    "homePage": "Home"
+  },
+  "my": {
+    "collections": {
+      "title": "My collect"
+    },
+    "info": {
+      "passwordEdit": "Change the password",
+      "input": "Please enter the",
+      "title": "Personal information"
+    },
+    "messages": {
+      "title": "My news"
+    },
+    "postCreate": {
+      "submit": "release",
+      "chooseCategory": "Please select category",
+      "titleInput": "Please enter the title",
+      "submitContent": "Determine the release？",
+      "checkFail": "Please complete the information",
+      "submitSuccess": "Release success！"
+    },
+    "postEdit": {
+      "editContent": "Confirm the change？",
+      "editSuccess": "Modify the success！"
+    },
+    "posts": {
+      "released": "I released",
+      "commented": "My comments",
+      "title": "My post"
+
+    }
+  },
+  "auth": {
+    "login": {
+      "username": "Username or Email",
+      "password": "password",
+      "register": "Sign up",
+      "forgetPassword": "Forgot password?",
+      "login": "Login",
+      "googleAuth": "Login With Google",
+      "wechatAuth": "Login With Wechat",
+      "facebookAuth": "Login With Facebook",
+      "title": "Login",
+      "accountEmpty": "Please enter your username or email",
+      "passwordEmpty": "Please enter your password"
+    },
+    "signup": {
+      "username": "Username",
+      "email": "Email",
+      "password": "Password",
+      "title": "BAAC - Signup",
+      "signup": "Signup"
+    },
+    "forgetPassword": {
+      "email": "Please enter your register email",
+      "send": "Send reset email",
+      "title": "Forgot password",
+      "sendTips": "Sended Success! Please go to the mailbox for the next step."
+    },
+    "googleAuth": {
+      "username": "Username",
+      "email": "Email",
+      "password": "Password",
+      "register": "Register"
+    },
+    "resetPassword": {
+      "username": "Username",
+      "email": "Email",
+      "newPassword": "New password",
+      "sendBtn": "To reset your password",
+      "title": "To reset your password"
+    },
+    "verifyEmail": {
+      "username": "Username",
+      "email": "Email",
+      "verifyCode": "Verify code",
+      "sendCodeBtn": "Send",
+      "verifyBtn": "Submit",
+      "sendBtn": "Send Verify Email",
+      "ignoreBtn": "Later",
+      "title": "Validation email"
+    },
+    "wechatAuth": {
+      "signupTitle": "Sign Up By Wechat",
+      "signupBtn": "Sign Up",
+      "goToBind": "Bind exist account",
+      "account": "Username or Email",
+      "bindTitle": "Bind Account With Wechat",
+      "bindBtn": "Bind",
+      "goToSignup": "Signup new account"
+
+    },
+    "facebookAuth": {
+      "signupTitle": "Sign Up By Facebook",
+      "signupBtn": "Sign Up",
+      "goToBind": "Bind exist account",
+      "account": "Username or Email",
+      "bindTitle": "Bind Account With Facebook",
+      "bindBtn": "Bind",
+      "goToSignup": "Signup new account"
+
+    }
+  }
+}

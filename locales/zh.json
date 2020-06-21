@@ -1,0 +1,214 @@
+{
+  "links": {
+    "home": "Home",
+    "english": "English version",
+    "chinese": "Chinese version",
+    "drawers": {
+      "index": "主页",
+      "myMessages": "我的消息",
+      "myCollections": "我的收藏",
+      "myInfo": "个人中心",
+      "myPosts": "我的帖子",
+      "language": "Language",
+      "about": "关于",
+      "logout": "注销"
+    }
+  },
+  "common": {
+    "yes": "是",
+    "cancel": "取消",
+    "save": "保存",
+    "close": "关闭",
+    "avatar": "头像",
+    "username": "用户名",
+    "birthday": "生日",
+    "none": "无",
+    "email": "邮箱",
+    "password":"密码",
+    "gender": "性别",
+    "phone": "电话",
+    "sign": "个性签名",
+    "logout": "注销",
+    "login": "登录",
+    "edit": "编辑",
+    "female": "女",
+    "male": "男",
+    "unknown": "未知",
+    "editSuccess": "修改成功！",
+    "tips": "提示",
+    "confirm": "确认",
+    "delete": "删除",
+    "submit": "提交",
+    "read": "阅读",
+    "like": "赞",
+    "noData": "暂无数据",
+    "notFound": "页面不存在",
+    "categories": {
+      "Help": "互帮互助",
+      "Rent": "租房",
+      "Transfer": "闲置转让",
+      "Chinese": "汉语学习",
+      "Trade":"外贸",
+      "Visa": "签证",
+      "Enjoy":"吃喝玩乐",
+      "Transport":"国际物流",
+      "Apply":"留学申请",
+      "Car": "二手车",
+      "Other":"其它"
+    },
+    "loadMore": {
+      "loading": "正在加载更多...",
+      "nodata": "暂无更多数据",
+      "error": "请求数据出错，请点击重试"
+    }
+  },
+  "about": {
+    "desc": ""
+  },
+  "category": {
+    "top": "置顶",
+    "notice":"公告",
+    "latest": "最新",
+    "hot": "最热",
+    "release": "最近发布"
+  },
+  "index": {
+    "hotSpotToday": "24小时热点",
+    "category": {
+      "help": "互帮互助",
+      "transfer": "闲置转让",
+      "chinese": "汉语学习",
+      "trade":"外贸",
+      "visa": "签证",
+      "enjoy":"吃喝玩乐",
+      "transport":"国际物流",
+      "application":"留学申请",
+      "car": "二手车",
+      "other":"其他"
+    }
+  },
+  "post": {
+    "cancelCollect": "取消收藏",
+    "collect": "收藏",
+    "comments": "评论",
+    "cancelSuccess": "取消成功！",
+    "collectSuccess": "收藏成功！",
+    "likeSuccess": "点赞成功！",
+    "deleteSuccess": "删除成功！",
+    "commentSuccess": "评论成功",
+    "replySuccess": "回复成功",
+    "read": "阅读",
+    "comment": "写评论...",
+    "deletePostTips": "您确定要删除这个帖子吗？",
+    "deleteCommentTips": "您确定要删除这条评论吗？",
+    "reply": "回复"
+  },
+  "user": {
+    "posts": "的帖子",
+    "he": "他",
+    "she": "她",
+    "homePage": "的主页"
+  },
+  "my": {
+    "collections": {
+      "title": "我的收藏"
+    },
+    "info": {
+      "passwordEdit": "修改密码",
+      "input": "请输入",
+      "title": "个人信息"
+    },
+    "messages": {
+      "title": "我的消息"
+    },
+    "postCreate": {
+      "submit": "发布",
+      "chooseCategory": "请选择版块",
+      "titleInput": "请输入标题",
+      "submitContent": "确定发布？",
+      "checkFail": "请补全信息",
+      "submitSuccess": "发布成功！"
+    },
+    "postEdit": {
+      "editContent": "确认修改？",
+      "editSuccess": "修改成功！"
+    },
+    "posts": {
+      "released": "我发布的",
+      "commented": "我评论的",
+      "title": "我的帖子"
+
+    }
+  },
+  "auth": {
+    "login": {
+      "username": "用户名或邮箱",
+      "password": "密码",
+      "register": "注册",
+      "forgetPassword": "忘记密码",
+      "login": "登录",
+      "googleAuth": "谷歌授权登录",
+      "wechatAuth": "微信授权登录",
+      "facebookAuth": "脸书授权登录",
+      "title": "登录",
+      "accountEmpty": "请输入账号",
+      "passwordEmpty": "请输入密码"
+    },
+    "register": {
+      "username": "用户名",
+      "email": "邮箱",
+      "password": "密码",
+      "title": "BAAC - 注册",
+      "signup": "注册"
+    },
+    "forgetPassword": {
+      "email": "请输入注册邮箱",
+      "send": "发送重置邮件",
+      "title": "忘记密码",
+      "sendTips": "发送成功！请前往邮箱进行下一步操作。"
+    },
+    "googleAuth": {
+      "username": "用户名",
+      "email": "邮箱",
+      "password": "密码",
+      "register": "注册"
+    },
+    "resetPassword": {
+      "username": "用户名",
+      "email": "邮箱",
+      "newPassword": "新密码",
+      "sendBtn": "重置密码",
+      "title": "重置密码"
+    },
+    "verifyEmail": {
+      "username": "用户名",
+      "email": "邮箱",
+      "verifyCode": "验证码",
+      "sendCodeBtn": "发送验证码",
+      "verifyBtn": "验证",
+      "sendBtn": "发送验证邮件",
+      "ignoreBtn": "以后再说",
+      "title": "验证邮箱"
+    },
+    "wechatAuth": {
+      "signupTitle": "微信授权注册",
+      "signupBtn": "注册",
+      "goToBind": "绑定已有账号",
+      "account": "用户名或邮箱",
+      "bindTitle": "绑定已有账号与微信号",
+      "bindBtn": "绑定",
+      "goToSignup": "注册新账号"
+
+    },
+    "facebookAuth": {
+      "signupTitle": "Facebook授权注册",
+      "signupBtn": "注册",
+      "goToBind": "绑定已有账号",
+      "account": "用户名或邮箱",
+      "bindTitle": "绑定已有账号与Facebook账号",
+      "bindBtn": "绑定",
+      "goToSignup": "注册新账号"
+
+    }
+  }
+}

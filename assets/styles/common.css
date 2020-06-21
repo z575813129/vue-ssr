@@ -1,0 +1,450 @@
+
+.l {
+  float: left;
+}
+
+.r {
+  float: right;
+}
+
+.clearfix:after {
+  content: '';
+  display: block;
+  clear: both;
+  height: 0;
+  visibility: hidden;
+}
+
+.clearfix {
+  zoom: 1;
+}
+
+.mls {
+  margin-left: 5px;
+}
+
+.ml {
+  margin-left: 10px;
+}
+
+.mlm {
+  margin-left: 16px !important;
+}
+
+.mrs {
+  margin-right: 5px;
+}
+
+.mr {
+  margin-right: 10px !important;
+}
+
+.mrm {
+  margin-right: 16px !important;
+}
+
+.mts {
+  margin-top: 5px !important;
+}
+
+.mt {
+  margin-top: 10px !important;
+}
+
+.mtm {
+  margin-top: 16px !important;
+}
+
+.mbs {
+  margin-bottom: 5px !important;
+}
+
+.mbl {
+  margin-bottom: 50px !important;
+}
+
+.pbl {
+  padding-bottom: 50px;
+}
+
+.mb {
+  margin-bottom: 10px;
+}
+
+.mbm {
+  margin-bottom: 16px;
+}
+
+.plm {
+  padding-left: 16px !important;
+}
+
+.pl {
+  padding-left: 10px !important;
+}
+
+.pls {
+  padding-left: 5px !important;
+}
+
+.prm {
+  padding-right: 16px !important;
+}
+
+.pr {
+  padding-right: 10px;
+}
+
+.prs {
+  padding-right: 5px;
+}
+
+.pts {
+  padding-top: 5px;
+}
+
+.pt {
+  padding-top: 10px;
+}
+
+.ptm {
+  padding-top: 30px;
+}
+
+.pbs {
+  padding-bottom: 5px;
+}
+
+.pb {
+  padding-bottom: 10px;
+}
+
+.pbm {
+  padding-bottom: 16px;
+}
+
+.m {
+  margin: 10px !important;
+}
+
+.mx {
+  margin: 16px !important;
+}
+
+.p {
+  padding: 10px;
+}
+
+.px {
+  padding: 16px !important;
+}
+
+.tl {
+  text-align: left;
+}
+
+.tc {
+  text-align: center;
+}
+
+.tr {
+  text-align: right;
+}
+
+.white {
+  color: #fff !important;
+}
+
+.color-b {
+  color: #2aa2ef;
+}
+
+.color-r {
+  color: #ff5252;
+}
+
+.color-h {
+  color: #999999 !important;
+}
+
+.color-o {
+  color: #e2721f;
+}
+
+.color-g {
+  color: #00cc99;
+}
+
+.b {
+  border: 1px solid #cec8c8;
+}
+
+.bra {
+  border-radius: 3px;
+}
+
+.bl {
+  border-left: 1px solid #cec8c8;
+}
+
+.br {
+  border-right: 1px solid #cec8c8;
+}
+
+.bt {
+  border-top: 1px solid #cec8c8;
+}
+
+.bb {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.bg-w {
+  background: #fff !important;
+}
+
+.bg-r {
+  background: #c51e1a;
+}
+
+.bg-g {
+  background: #00cc99;
+}
+
+.bg-gr {
+  background: #ccc !important;
+}
+
+.bg-y {
+  background: #fd892b;
+}
+
+.db {
+  display: block;
+}
+
+.dn {
+  display: none;
+}
+
+.dl {
+  display: inline;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.color-primary {
+  color: #00cc99 !important;
+}
+
+.color-accent {
+  color: #ff5252 !important;
+}
+
+.color-r {
+  color: #c51e1a;
+}
+
+.color-w {
+  color: #fff;
+}
+
+.color-o {
+  color: #fd892b;
+}
+
+.color-lj {
+  color: #fc9153;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-start {
+  align-items: flex-start !important;
+}
+.f1 {
+  flex: 1;
+}
+
+.fa {
+  justify-content: space-around;
+}
+
+.fb {
+  justify-content: space-between;
+}
+
+.fc {
+  justify-content: center;
+}
+
+.fe {
+  justify-content: flex-end !important;
+}
+
+.fs {
+  font-size: 14px;
+}
+.f12 {
+  font-size: 12px;
+}
+
+.footer-bottom {
+  padding-bottom: 56px !important;
+}
+
+.fm {
+  font-size: 18px;
+}
+
+.fw {
+  font-weight: bold;
+}
+
+.col-5 {
+  width: 5%;
+}
+
+.col-10 {
+  width: 10%;
+}
+
+.col-13 {
+  width: 13%;
+}
+
+.col-15 {
+  width: 15%;
+}
+
+.col-18 {
+  width: 18%;
+}
+
+.col-20 {
+  width: 20%;
+}
+
+.col-22 {
+  width: 22%;
+}
+
+.col-23 {
+  width: 23%;
+}
+
+.col-24 {
+  width: 24.5%;
+}
+
+.col-25 {
+  width: 25%;
+}
+
+.col-27 {
+  width: 27%;
+}
+.col-88 {
+  width: 88%;
+}
+.col-30 {
+  width: 30% !important;
+}
+
+.col-33 {
+  width: 33%;
+}
+
+.col-37 {
+  width: 37%;
+}
+
+.col-40 {
+  width: 40%;
+}
+
+.col-45 {
+  width: 45%;
+}
+
+.col-48 {
+  width: 48%;
+}
+
+.col-49 {
+  width: 49%;
+}
+
+.col-50 {
+  width: 50%;
+}
+
+.col-60 {
+  width: 60%;
+}
+.col-65 {
+  width: 65%;
+}
+.col-62 {
+  width: 62%;
+}
+
+.col-70 {
+  width: 70%;
+}
+
+.col-80 {
+  width: 80%;
+}
+
+.col-90 {
+  width: 90%;
+}
+
+.col-88 {
+  width: 88%;
+}
+
+.col-100 {
+  width: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+.header-top {
+  padding-top: 56px
+}
+
+.lh {
+  line-height: 44px;
+}
+
+.fixed {
+  position: fixed;
+  top: 0;
+  z-index: 5;
+  left: 0;
+  right: 0
+}
+
+.clamp-2 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
