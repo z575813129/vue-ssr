@@ -19,7 +19,7 @@
     "date-fns": "^2.8.1",
     "koa": "^2.6.2",
     "lrz": "^4.9.40",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "nuxt-i18n": "^6.4.1",
     "quill-emoji": "^0.1.7",
     "quill-image-extend-module": "^1.1.2",
